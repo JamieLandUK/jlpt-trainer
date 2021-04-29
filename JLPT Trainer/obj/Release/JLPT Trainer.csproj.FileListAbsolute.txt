@@ -1,0 +1,18 @@
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Release\JLPT Trainer.exe.config
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Release\JLPT Trainer.exe
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Release\JLPT Trainer.pdb
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Release\System.Data.SQLite.dll
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Release\System.Data.SQLite.xml
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT Trainer.csprojAssemblyReference.cache
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT_Trainer.windowMain.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT_Trainer.frmCheck.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT_Trainer.frmLearn.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT_Trainer.frmReview.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT_Trainer.frmSignIn.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT_Trainer.frmSynthTest.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT_Trainer.Properties.Resources.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT Trainer.csproj.GenerateResource.cache
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT Trainer.csproj.CoreCompileInputs.cache
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT Trainer.csproj.CopyComplete
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT Trainer.exe
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Release\JLPT Trainer.pdb

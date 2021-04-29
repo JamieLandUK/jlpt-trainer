@@ -1,0 +1,18 @@
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Debug\JLPT Trainer.exe.config
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Debug\JLPT Trainer.exe
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Debug\JLPT Trainer.pdb
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT Trainer.csprojAssemblyReference.cache
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT_Trainer.windowMain.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT_Trainer.Properties.Resources.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT Trainer.csproj.GenerateResource.cache
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT Trainer.csproj.CoreCompileInputs.cache
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT Trainer.exe
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT Trainer.pdb
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT_Trainer.frmSynthTest.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT_Trainer.frmSignIn.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Debug\System.Data.SQLite.dll
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT Trainer.csproj.CopyComplete
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\bin\Debug\System.Data.SQLite.xml
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT_Trainer.frmCheck.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT_Trainer.frmLearn.resources
+F:\University\Project\Proj\JLPT Trainer\JLPT Trainer\obj\Debug\JLPT_Trainer.frmReview.resources
